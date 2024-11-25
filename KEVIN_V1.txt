@@ -1,0 +1,1 @@
+La herramienta Git es fundamental para el versionamiento de proyectos, ya que permite gestionar de manera eficiente el código fuente, asegurando su respaldo y facilitando el trabajo colaborativo en equipo.
