@@ -1,1 +1,3 @@
 Hola Mundo y Emily
+
+GabyP1: ¿Para qué sirve el comando git status?
