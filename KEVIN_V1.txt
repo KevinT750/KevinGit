@@ -1,1 +1,3 @@
 La herramienta Git es fundamental para el versionamiento de proyectos, ya que permite gestionar de manera eficiente el código fuente, asegurando su respaldo y facilitando el trabajo colaborativo en equipo.
+
+Gaby: Cuando creamos una rama se crea con el contenido de la rama en la que estabamos ubicados anteriormente. Es decir lo que tiene master + lo que tiene la rama actual
