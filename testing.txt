@@ -13,3 +13,5 @@ Para Crear una nueva rama en git se usa el comando "git chechout -b + (Nombre de
 3.-¿Qué hace el comando git pull?
 
 Se utiliza para actualizar el repositorio local con los cambios más recientes del repositorio remoto.
+
+4.- ¿Cómo se agrega un archivo al área de preparación en Git?
