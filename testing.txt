@@ -18,3 +18,6 @@ Se utiliza para actualizar el repositorio local con los cambios más recientes d
 Respuesta Kevin:
 Se utiliza el comando git add. 
 git add <archivo>
+
+
+5.-¿Qué comando muestra el historial de commits en Git?
