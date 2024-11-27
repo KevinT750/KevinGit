@@ -1,4 +1,6 @@
 Hola Mundo y Emily
 
 ¿Qué comando se usa para clonar un repositorio en Git?
+El comando que se usa para clonar un Repositorio es "git clone + (URL DEL PROYECTO)"
 ¿Cómo se crea un nuevo branch en Git?
+Para Crear una nueva rama en git se usa el comando "git chechout -b + (Nombre de la rama)"
